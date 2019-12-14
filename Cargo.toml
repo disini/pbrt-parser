@@ -1,5 +1,5 @@
 [package]
-name = "pbrt-parse"
+name = "pbrt-parser"
 version = "0.1.0"
 authors = ["mandeep <mandeep@users.noreply.github.com>"]
 edition = "2018"
